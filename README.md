@@ -16,7 +16,7 @@ spring.datasource.hikari.connectionTimeout=20000
 spring.datasource.hikari.maximumPoolSize=5
 
 ## PostgreSQL
-spring.datasource.url=jdbc:postgresql://172.30.73.186:5432/dockerdemo
+spring.datasource.url=jdbc:postgresql://172.xx.xx.xx:5432/dockerdemo <------ zelf ip adres invullen
 spring.datasource.driver-class-name=org.postgresql.Driver
 spring.datasource.username=dockerdemo
 spring.datasource.password=dockerdemo
